@@ -1,0 +1,14 @@
+body{
+				background-color: #A4A4A4;
+				margin-left: 20%;
+				margin-right: 20%;
+				border: 1px solid gray;
+				padding: 10px 10px 10px 10px;
+				font-family: sans-serif;
+			}
+			h1{
+				color: #FF4000;
+			}
+			h2{
+				color: #000000;
+			}
